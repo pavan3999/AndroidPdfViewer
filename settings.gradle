@@ -1,0 +1,3 @@
+rootProject.name = "AndroidPdfViewer"
+include ':pdfdemo'
+include ':android-pdf-viewer'
