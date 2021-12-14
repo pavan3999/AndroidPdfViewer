@@ -17,7 +17,7 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 
 import com.artifex.mupdf.fitz.Document;
-import com.longluo.android.pdfviewer.pdfui.DocumentActivity;
+import com.longluo.viewer.DocumentActivity;
 
 import java.io.File;
 import java.io.FileFilter;
