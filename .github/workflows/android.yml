@@ -41,7 +41,6 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: AndroidPdfViewer
-          path: ./**/*.apk
 
       - name: Download Artifacts
         uses: actions/download-artifact@v2
